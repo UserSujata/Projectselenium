@@ -15,6 +15,9 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 
+
+
+
 public class SeleniumSGTestNGProj {
 
 	static WebDriver driver;
@@ -27,6 +30,9 @@ public class SeleniumSGTestNGProj {
 //		addTocardAndCompareprice();
 //		proceedAndComfirm();
 //	}
+	
+	
+	
 
 	@BeforeTest
 	public static void LaunchBrowser() {
